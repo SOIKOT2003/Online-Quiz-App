@@ -15,6 +15,15 @@ An interactive **Online Quiz App** built using **HTML, CSS, and JavaScript**. Th
 - **CSS** – Styling and animations  
 - **JavaScript** – Dynamic quiz logic & interactivity  
 
+## 💻 Recommended IDE  
+We recommend using **Visual Studio Code (VS Code)** for editing and running the project efficiently.  
+
+🔹 **Download VS Code**: [https://code.visualstudio.com/](https://code.visualstudio.com/)  
+
+🔹 **Recommended Extensions**:  
+- **Live Server** (for real-time preview)  
+- **ESLint** (for better JavaScript coding practices)  
+
 ## 🚀 Getting Started  
 ### **1️⃣ Clone the Repository**  
 ```sh
